@@ -1,6 +1,6 @@
-###console.frog
+###console.sloth
 
-`console.frog` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-frog).
+`console.sloth` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!).
 
 ### Preview
 
@@ -17,28 +17,34 @@ Boring.
 
 Wow, what a drag that was! No wonder you've become disenchanted with web development.
 
-**NOW!** Here's what your life could be after `console.frog`
+**NOW!** Here's what your life could be after `console.sloth`
 
 ```javascript
 // Here is happy you, logging some logs
-console.frog("Amazing!");
+console.sloth("Heyyy!");
 ```
 
 ```
 // And here is your output.
-          _,-.     ------------
-  ,-. ,--'  o ) -(   Amazing!   )
-  \(,' '  ,,-'     ------------
- ,-.\-.__,\\_
- \(`--'    `\ 
+=====(((=))=====(=)))===========
+      " `,      |' /
+      /"/        |""
+     """|        \"|
+     |"||        " "
+     "" "        |"|\
+    /""~\\.      /" ""~,
+   ""~""""`"",~`~"!!"!" \
+   /"""""/""! "~""" "" "~",
+  //\""!!""~"!"!"\"""/~!~, C~"~P
+ // !!"""""! "~ " !!"!! "," O o"~   ------------
+ ||   !!"!!~!!~||"  !     "" Y "" -(   Heyyy!   )-      
+ \\     !  !  !            `"U"'    ------------
+  \\
+   \\  0))
+    \`-~/~
+     `~'
 ```
 
-Wow. That feels good!
 
 ###Usage
-Simply include the `console.frog.js` file into your app!
-
-###License
-Copyright (c) 2016 Tim Holman - http://tholman.com
-
-The MIT License
+Simply include the `console.sloth.js` file into your app!
